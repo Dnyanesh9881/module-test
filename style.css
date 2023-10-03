@@ -1,9 +1,8 @@
-
 * {
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
-  font-family: 'ABeeZee', sans-serif;
+  font-family: "ABeeZee", sans-serif;
 }
 .my_header {
   background-color: #ffffff;
@@ -423,7 +422,7 @@
     width: 30vw;
     text-align: left;
   }
-  .arrow{
+  .arrow {
     display: none;
   }
 }
