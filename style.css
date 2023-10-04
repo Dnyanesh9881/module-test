@@ -210,8 +210,8 @@ td {
   font-size: 16px;
   font-weight: 400;
 }
-tr{
-  border-bottom-style:2 solid black ;
+tr {
+  border-bottom-style: 2 solid black;
 }
 .company {
   padding-top: 5rem;
@@ -509,28 +509,28 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF); */
   .arrow {
     display: none;
   }
-  .courses{
+  .courses {
     display: flex;
     flex-direction: column;
   }
-  .acciojob_courses{
+  .acciojob_courses {
     padding-inline: 0.7rem;
   }
-  .course1{
+  .course1 {
     margin-bottom: 1rem;
     padding: 0.6rem;
   }
-  .course2{
+  .course2 {
     padding: 0.6rem;
   }
-  .brochure_button{
+  .brochure_button {
     padding: 0px;
     padding-inline: 1rem;
     border-radius: 8px;
     border: 1px;
     border: 2px solid #2f80ed;
-    
-    background-color:white;
+
+    background-color: white;
   }
   .learnmore_button {
     font-size: 18px;
@@ -539,6 +539,5 @@ linear-gradient(0deg, #FFFFFF, #FFFFFF); */
     color: white;
     border-radius: 8px;
     border: none;
-    
   }
 }
